@@ -1,6 +1,6 @@
 - [ ] Setup
     - [x] Task 1 - Create resources
-    - [ ] Task 2 - Upload the data used in the lab
+    - [x] Task 2 - Upload the data used in the lab
     - [ ] Task 3 - Setting Up Azure Cognitive Services
     - [ ] Task 4 - Import datasets, data flows, and pipelines
     - [ ] Task 5 - Populate PrimaryStorage with data
