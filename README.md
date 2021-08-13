@@ -1,3 +1,55 @@
+- [ ] Setup
+    - [ ] Task 1 - Create resources
+    - [ ] Task 2 - Upload the data used in the lab
+    - [ ] Task 3 - Setting Up Azure Cognitive Services
+    - [ ] Task 4 - Import datasets, data flows, and pipelines
+    - [ ] Task 5 - Populate PrimaryStorage with data
+    - [ ] Task 6 - Configure the SQL on-demand pool
+    - [ ] Task 7 - Configure SQLPool01
+    - [ ] Task 8 - Configure Power BI
+    - [ ] Task 9 - Import all SQL scripts and Spark notebooks
+    - [ ] Task 10 - Prepare a machine learning model
+    - [ ] Task 11 - Configure additional users to access the workspace
+    - [ ] Task 12 - Create and configure an Azure Databricks workspace
+
+- [ ] Exercise 1 - Explore the data lake with Azure Synapse SQL On-demand and Azure Synapse Spark\
+- [ ] Exercise 2 - Working with Azure Synapse Pipelines
+- [ ] Exercise 3 - Power BI integration
+- [ ] Exercise 4 - High Performance Analysis with Azure Synapse SQL Pools
+- [ ] Exercise 5 - Data Science with Spark (optional)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Azure Synapse Analytics Lab
 
 ## Wide World Importers
