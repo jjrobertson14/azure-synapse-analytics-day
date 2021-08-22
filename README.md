@@ -6,6 +6,7 @@
     - [ ] Task 5 - Populate PrimaryStorage with data
     - [ ] Task 6 - Configure the SQL on-demand pool
     - [ ] Task 7 - Configure SQLPool01
+        - [ ] Task 7.5 - Create Linked Service to SQLPool01
     - [ ] Task 8 - Configure Power BI
     - [ ] Task 9 - Import all SQL scripts and Spark notebooks
     - [ ] Task 10 - Prepare a machine learning model
